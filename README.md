@@ -1,1 +1,2 @@
-# Culture Cuts\n A website for the Culture Cuts barbershop
+# Culture Cuts
+A website for the Culture Cuts barbershop
