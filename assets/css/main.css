@@ -120,7 +120,7 @@ input, select, textarea {
 		color: #888;
 		-webkit-text-stroke: 0.1px;
 	}
-
+	
 	h1, h2, h3, h4, h5, h6 {
 		color: #666;
 		margin: 0 0 1em 0;
@@ -2193,11 +2193,10 @@ input, select, textarea {
 	}
 
 		#header header h1 {
-			font-size: 2.25em;
 			line-height: 1.25em;
 			margin-bottom: 0;
 			font-variant: small-caps;
-			font-size: 7rem;
+			font-size: 6rem;
 			font-weight: 600;
 			
 			
